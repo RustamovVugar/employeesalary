@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFxtfWxp9POlt74vXjJvtYSzpf+ySQu6P2YWtzyDL1g88Me/SA9SBIaVhkdC4ZLWdkFca1kmS47GdGbKGxfJ9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\Task3\\Numerical\\Numerical\\Numerical.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

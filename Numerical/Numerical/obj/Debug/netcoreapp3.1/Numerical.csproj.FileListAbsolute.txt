@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\obj\Debug\netcoreapp3.1\Numerical.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\obj\Debug\netcoreapp3.1\Numerical.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\obj\Debug\netcoreapp3.1\Numerical.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\obj\Debug\netcoreapp3.1\Numerical.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\obj\Debug\netcoreapp3.1\Numerical.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\bin\Debug\netcoreapp3.1\Numerical.exe
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\bin\Debug\netcoreapp3.1\Numerical.deps.json
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\bin\Debug\netcoreapp3.1\Numerical.runtimeconfig.json
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\bin\Debug\netcoreapp3.1\Numerical.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\bin\Debug\netcoreapp3.1\Numerical.dll
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\bin\Debug\netcoreapp3.1\Numerical.pdb
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\obj\Debug\netcoreapp3.1\Numerical.dll
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\obj\Debug\netcoreapp3.1\Numerical.pdb
+C:\Users\Administrator\Desktop\Task3\Numerical\Numerical\obj\Debug\netcoreapp3.1\Numerical.genruntimeconfig.cache
